@@ -28,160 +28,178 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: Chinese
-        level: Professional
-
       - idiom: Malay
         level: Professional
 
+      - idiom: Chinese
+        level: Conversation
+
+      - idiom: Nepali
+        level: Beginner
+
     interests:
-      - item: "Osho Adventure"
-        link: "https://trekkingtopnepal.com"
+      - item: Backpacking
+        link:
 
-      - item: "ShiShu Tours & Travel"
-        link: "https://shishutours.fun"
+      - item: Artificial Intteligent
+        link:
 
-      - item: "Thapa Coffee"
-        link: "https://thapa.coffee"
+      - item: Dota2
+        link:
 
-      - item: "Ultranet Communication"
-        link: "https://ultranet.netlify.com"
+      - item: Netflix
+        link:
 
-      - item: "Usoft Store"
-        link: "https://usoft.store"
+      - item: Spotify
+        link:
 
-      - item: "Khimyan Curry"
-        link: "https://khimyan.com"
+      - item: Drone
+        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Formerly founded Eco OEM - to better serve the ever growing health and beauty industry. The aim is to help more business start ups and small businesses by outsource their production to us, thus cut down on overhead costs and they can focus more on making sales. The company has been sold to after 2 and a half years of operation to a Multinational company in Malaysia.
 
-      Second paragraph if required.
+      Shortly after that, I took up a position and worked as part of the key role in my family business to promote Malaysia to the world through Malaysian curries. It's exciting when business and food combined!
+
+      At the present, I' on traveling to various countries and I fell in love with Nepal. I set up my own freelancing company in Kathmandu mainly focusing on providing website development and digital marketing services to local businesses.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Associate of Arts and Sciences - AAS
+      university: Olympia College
+      time: 2007 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        I obtained a Diploma of Marketing Management from Olympia College after a year of study.
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: Bachelor of Technology - BTech
+      university: The Hong Kong University of Science and Technology
+      time: 2008 - 2010
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        I was part time study on practical based ecommerce course.
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Frontend Developer & Digital Marketing Strategist
+      time: 2018 - Present
+      company: MyBetterWeb, Kathmandu
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        As a Digital Marketing Strategists take the lead in helping our clients figure out how to best use the internet to achieve their international growth objectives. I  work closely with the marketing and brand strategists to develop an international web presence architecture and online marketing strategy. This provides a clear roadmap that orchestrates all relevant digital channels and tactics (i.e. websites, content marketing, networking on social media, e-commerce, search and social advertising, SEO, marketing automation, apps, media/blogger outreach, etc.) into one actionable plan.  In practice, these are the tasks I need to do:
 
-          - Bullet point
-          - Bullet point
+        - Perform detailed desktop research into our clients, their category, and competitors across multiple markets.
+        - De-construct competitive best practices in digital marketing and create benchmarks.
+        - Define global web architecture detailing what sites and social assets the brand will maintain globally in various versions and languages.
+        - Conduct web asset audits to map a brand’s global web presence and assess the effectiveness of each asset.
+        - Work closely with the various specialists involved with the implementation and management of our digital strategies.
+        - Identify opportunities for clients to use digital technology to enhance their overall marketing mix: product, price, place, or promotion.
+        - Support the lead marketing strategist with research, analysis, and reporting in related areas, such as market research, target segmentation, and brands strategy.
+        - Structure and present recommendations to clients.
+        - Participate in new business activity often by providing digital intel on companies and markets.
+        - Help with the ongoing digitization of agency IP and processes.
 
-    - role: Senior Software Engineer
+    - role: Director of Business Development
+      time: 2015 - 2018
+      company: Global Foodie Network, Penang
+      details: |
+        This position is expect ed to uphold the mission and values established by the organization. Below are the job scopes:
+
+          - Implement the recommendations of the strategic marketing plan.
+          - Perform market research and analysis.
+          - Evaluate operational issues to determine whether competitive and staying current with the latest trends in the industry.
+          - Monitor external and internal environment for development of new market segments.
+          - Develop marketing campaigns for new products and services. This includes formulating a specific budget and expenditure plan for each.
+          - Manage specific corporate programs.
+          - Demonstrate knowledge of, and supports, mission, vision, value statements, standards, policies and procedures, operating instructions, confidentiality standards, and the code of ethical behavior.
+          - Perform public speaking to volunteer organizations and committees regarding public relations, marketing and development.
+          - Develop and maintain marketing budget.
+
+    - role: Relationship Management Specialist
       time: 2014 - 2015
-      company: Google, London
+      company: Socialwalk, Multimedia University Cyberjaya
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        As a Relationship Management Specialist, I'm in charged with developing techniques and processes to continuously verify the integrity of the information contained within the database.  The maintenance includes the addition of new information, updating changes to existing information and deletion of obsolete data.
 
-          - Bullet point
-          - Bullet point
+          - Coordinating the data verifications efforts of the organization – both on the organizational and individual level.
+          - Completing reports, lists, labels and custom data collections to support the work of the organization.
+          - Preparing reports for use by Chamber staff.
 
-    - role: UI Developer
+    - role: Business Development Consultant
       time: 2012 - 2014
-      company: Amazon, London
+      company: Eco OEM , Kuala Lumpur
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Provide consultation and one stop solution on development of green and eco friendly products. Mainly on Health and Beauty Projects.
 
-          - Bullet point
-          - Bullet point
+        - Responsible for the overall management of all strategic and operational Marketing and Customer Relationship activities.
+        - Provide market feedback to the company leadership regarding competitive offerings, prospect needs and generate product development ideas.
+        - Planning and coordinating the implementation of business plans and the penetration of new markets.
+        - Take ownership of the management of the sales and marketing functions of the business.
+        - Drive increased revenue and profit to achieve the Company`s ambitious growth.
+        - Working to stringent targets, the job holder will be required to adopt a professional and knowledgeable approach to each new business call.
+
+    - role: Business Development Executive
+      time: 2011 - 2012
+      company: Khimyan Holdings, Penang
+      details: |
+        Responsible for product development and business consultation to clients.
+
+          - Brand development, web site traffic growth, web site UI and advertising revenue. Developed brand strategy and statistics systems.
+          - Strategic Consulting, including business plan & sales strategy development.
+          - Advising new businesses on formation of corporations and business structures, drafting privacy policies and structuring commercial transactions.
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      I love creating website that works. I'm passionate in digital marketing and within the 3 months of my time in Nepal, I've accomplished quite a few of works from big to small organizations in different fields.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: MyBetterWeb
+        link: "https://mybetterweb.site"
+        tagline: "This is a minimalist website for my own company that is created with Ruby templating language + Javascript for animation."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Usoft Store
+        link: "https://usoft.store"
+        tagline: "This online shop is made with Shopify. I've experience in Ruby so designing made so fun for this task. This online shop is going to be the second largest online shop in Nepal after Daraz."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Trekking Top Nepal
+        link: "https://trekkingtopnepal.com"
+        tagline: "This is my first PHP job after so many years. My job is to transform a travel agency's website into a more attractive one with online booking function. I also provide Paid Ads Marketing for them."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: ShiShu Tours
+        link: "https://shishutours.fun"
+        tagline: "This is a young travel agency company that hasn't put up any website. I created them a fresh & clean responsive website with online booking capibility. Yes, this is my second attempt on PHP!"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Thapa Coffee
+        link: "https://thapa.coffee"
+        tagline: "I met the coffee farmer during my hike to a local village. The plan didn't goes well and we almost fall down from the landslide. I created the website in the village, the contents are real story and pictures he told me along the trip. This website is written in Go."
+
+      - title: Ultranet Communication
+        link: "https://ultranet.netlify.com"
+        tagline: "I was searching for internet wifi and that's when I met them. I created a simple one page website (written in Go) to them and also implemented online banking and ewallet payment gateway to their backend (Wordpress & WooCommerce). "
+
+      - title: Khimyan Curry
+        link: "https://khimyan.com"
+        tagline: "Khimyan curry is a renowed curry paste maker in Malaysia. They has a very long history and they also have the best curry in town. I revamped the website in 2016 and this website also got nominated and won the Malaysia Website Awards in 2017."
 
 publications:
-    title: Publications
+    title: Contribution & Awards
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Besides being one of the many code contributor to [brew.sh](https://brew.sh), I also helped contribute some simple codes on my own gist on github.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Malaysia Website Awards 2017"
+        description: It was my glorious moment to get the awards for the Website that I made. Besides for the website design and seo strategy, the chatbot that I created to automate online order is the main reason I was chosen.
+        referrence: http://mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: "Video editing makes easy with ffmpeg command line"
+        description: After getting tired of technical limitation when editing video, I did some research and summarized the ffmpeg command line into a gist. No more headache when editing videos.
+        referrence: https://gist.github.com/peranakanfrancis/2ea53140b7577a04ce412bc1a64e7fbb
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "Disabled copy function on website"
+        description: Tiny Javascript code for disable right-click of mouse, F12 key, and save key combinations on page without jeopardy the design of your website.
+        referrence: https://gist.github.com/peranakanfrancis/07a9e1c574b20c50032ea74e497c406d
+
+      - title: "Jekyll vimeo plugin"
+        description: A minimal Ruby code for embedding videos from Vimeo using a simple Liquid tag without installing jekyll plugin.
+        referrence: https://gist.github.com/peranakanfrancis/e51ae72c2c697c0c4971f2b837935f03
 
 skills:
     title: Skills &amp; Proficiency

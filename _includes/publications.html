@@ -18,10 +18,9 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    <div class="publication-title">{{ publication.title }}</div>
-    <div class="publication-authors">{{ publication.authors }}</div>
-    <div class="publication-conference">{{ publication.conference }}</div>
-  </div><!--//item-->
+    <div class="publication-title"><a href="{{ publication.referrence }}">{{ publication.title }}</a></div>
+    <div class="publication-authors">{{ publication.description }}</div>
+    <!--//item-->
   {% endfor %}
 
 </section><!--//section-->
