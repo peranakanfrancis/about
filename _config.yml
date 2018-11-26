@@ -1,29 +1,55 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
 # Site Settings
-title: My Resume
-url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+title: About
+url: 'http://about.mybetterweb.site'
+baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: blue # blue turquoise green berry orange ceramic
-chrome_mobile_color: #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+theme_skin: orange # blue turquoise green berry orange ceramic
+chrome_mobile_color: fa2a7b #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-129774437-2
 
-# Sass/SCSS
+social:
+  name: peranakafrancis
+  links:
+    - https://twitter.com/peranakafrancis
+    - https://www.facebook.com/peranakan.men
+    - https://www.linkedin.com/in/peranakafrancis
+    - https://plus.google.com/+peranakafrancis
+    - https://github.com/peranakafrancis
+    - https://keybase.io/peranakafrancis
+    - https://wa.me/60142137507
+    - https://m.me/peranakafrancis
+twitter:
+  username: peranakanfrancis
+  card: summary
+profile: true
+incremental: true
+livereload: true
+time_zone: Asia/Katmandul
+destination: public
+source:
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+hightlighter: rouge
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
+excludes: [ README.md, node_modules, Gemfile* ]
 
 # Build settings
 encoding: "utf-8"
-compress_html: # - http://jch.penibelst.de/
+compress_html:
+  comments: [ "<!-- ", " -->" ]
   clippings: all
   ignore:
     envs: development
 
 # Development Settings
-port: 4000
-host: 0.0.0.0
+port: 4001
+host: 127.0.0.1
 safe: false

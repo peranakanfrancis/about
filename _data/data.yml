@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,41 +7,51 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Francis Tan
+    tagline: "Frontend Developer & Digital Marketing Strategist"
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: admin@mybetterweb.site
+    phone: 60142137507
+    whatsapp: 9779823034701
+    website: mybetterweb.site #do not add http://
+    linkedin: peranakafrancis
+    github: peranakafrancis
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@peranakafrancis'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Chinese
         level: Professional
-        
+
+      - idiom: Malay
+        level: Professional
+
     interests:
-      - item: Climbing
-        link:
+      - item: "Osho Adventure"
+        link: "https://trekkingtopnepal.com"
 
-      - item: Snowboarding
-        link:
+      - item: "ShiShu Tours & Travel"
+        link: "https://shishutours.fun"
 
-      - item: Cooking
-        link:
+      - item: "Thapa Coffee"
+        link: "https://thapa.coffee"
+
+      - item: "Ultranet Communication"
+        link: "https://ultranet.netlify.com"
+
+      - item: "Usoft Store"
+        link: "https://usoft.store"
+
+      - item: "Khimyan Curry"
+        link: "https://khimyan.com"
 
 career-profile:
     title: Career Profile
@@ -66,7 +76,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - degree: BSc in Applied Mathematics
       university: Bristol University
@@ -79,7 +89,7 @@ education:
         pretium quis, sem.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
 experiences:
     - role: Lead Developer
@@ -97,7 +107,7 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
 
           - Bullet point
-          - Bullet point 
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
@@ -177,23 +187,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: HTML & CSS
+        level: 90%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 80%
 
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Ruby & Liquid
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP & Wordpress
+        level: 75%
+
+      - name: React Native
+        level: 80%
+
+      - name: Photoshop & Video Editing
+        level: 65%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://mybetterweb.site" target="_blank" rel="nofollow">MyBetterWeb</a>
