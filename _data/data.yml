@@ -34,6 +34,9 @@ sidebar:
       - idiom: Chinese
         level: Conversation
 
+      - idiom: Indonesian
+        level: Conversation
+        
       - idiom: Nepali
         level: Beginner
 
@@ -58,7 +61,7 @@ sidebar:
 
       - item: Drone Video Editing
         link: "https://mybetterweb.site/#/2018/10/10/drone-video-editing"
-        
+
 career-profile:
     title: Career Profile
     summary: |
