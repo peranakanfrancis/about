@@ -38,24 +38,27 @@ sidebar:
         level: Beginner
 
     interests:
-      - item: Backpacking
-        link:
+      - item: Responsive Website
+        link: "https://mybetterweb.site/#/2018/08/13/responsive-website"
 
-      - item: Artificial Intteligent
-        link:
+      - item: Business Website
+        link: "https://mybetterweb.site/#/2018/07/01/business-website"
 
-      - item: Dota2
-        link:
+      - item: eCommerce Online Shop
+        link: "https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop"
 
-      - item: Netflix
-        link:
+      - item: Search Engine Optimization
+        link: "https://mybetterweb.site/#/2018/10/01/search-engine-optimization"
 
-      - item: Spotify
-        link:
+      - item: Paid Search Marketing
+        link: "https://mybetterweb.site/#/2018/06/01/paid-search-marketing"
 
-      - item: Drone
-        link:
+      - item: Conversation Rate Optimization
+        link: "https://mybetterweb.site/#/2018/06/01/conversion-rate-optimization"
 
+      - item: Drone Video Editing
+        link: "https://mybetterweb.site/#/2018/10/10/drone-video-editing"
+        
 career-profile:
     title: Career Profile
     summary: |
