@@ -47,6 +47,9 @@ sidebar:
       - item: Business Website
         link: "https://mybetterweb.site/#/2018/07/01/business-website"
 
+      - item: Google AMP Website
+        link: "https://mybetterweb.site/#/2018/05/10/google-amp-website"
+
       - item: eCommerce Online Shop
         link: "https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop"
 
@@ -59,9 +62,15 @@ sidebar:
       - item: Conversation Rate Optimization
         link: "https://mybetterweb.site/#/2018/06/01/conversion-rate-optimization"
 
+      - item: Email Marketing
+        link: "https://mybetterweb.site/#/2018/05/30/email-marketing"
+
       - item: Drone Video Editing
         link: "https://mybetterweb.site/#/2018/10/10/drone-video-editing"
 
+      - item: Holiday Video Editing
+        link: "https://mybetterweb.site/#/2018/10/30/holiday-video-editing"
+        
 career-profile:
     title: Career Profile
     summary: |
