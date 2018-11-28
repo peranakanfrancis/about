@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Francis Tan
-    tagline: "Frontend Developer & Digital Marketing Strategist"
+    tagline: "Digital Marketing Strategist @MyBetterWeb"
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -23,6 +23,7 @@ sidebar:
     twitter: '@peranakafrancis'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
+    location:  Kuala Lumpur & Kathmandu
 
     languages:
       - idiom: English
@@ -70,7 +71,7 @@ sidebar:
 
       - item: Holiday Video Editing
         link: "https://mybetterweb.site/#/2018/10/30/holiday-video-editing"
-        
+
 career-profile:
     title: Career Profile
     summary: |

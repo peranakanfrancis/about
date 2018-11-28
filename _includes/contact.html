@@ -8,14 +8,14 @@
     {% endif %}
 
     {% if sidebar.phone %}
-    <li class="phone"><i class="fas fa-phone"></i>
-      <a href="tel:00{{ sidebar.phone }}">{{ sidebar.phone }}</a>
+    <li class="phone"><i class="fa fa-phone fa-lg"></i>
+      <a href="tel:00{{ sidebar.phone }}">+{{ sidebar.phone }}</a>
     </li>
     {% endif %}
 
-    {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
-      <a href="http://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    {% if sidebar.whatsapp %}
+    <li class="whatsapp"><i class="fa fa-whatsapp fa-lg"></i>
+      <a href="https://wa.me/{{ sidebar.whatsapp }}">+{{ sidebar.whatsapp }}</a>
     </li>
     {% endif %}
 
@@ -34,12 +34,6 @@
     {% if sidebar.github %}
     <li class="github"><i class="fab fa-github"></i>
       <a href="http://github.com/{{ sidebar.github }}" target="_blank">{{ sidebar.github }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.whatsapp %}
-    <li class="whatsapp"><i class="fa fa-whatsapp fa-lg"></i>
-      <a href="https://wa.me/{{ sidebar.whatsapp }}">{{ sidebar.whatsapp }}</a>
     </li>
     {% endif %}
 
@@ -64,6 +58,18 @@
     {% if sidebar.codewars %}
     <li class="codewars"><i class="fas fa-code"></i>
       <a href="https://www.codewars.com/users/{{ sidebar.codewars }}/completed_solutions" target="_blank">{{ sidebar.codewars }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.website %}
+    <li class="website"><i class="fas fa-globe-americas"></i>
+      <a href="https://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.location %}
+    <li class="location"><i class="fa fa-map-marker fa-lg"></i>
+      <a>{{ sidebar.location }}</a>
     </li>
     {% endif %}
 
