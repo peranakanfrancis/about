@@ -18,7 +18,7 @@
 
   {% for publication in publications.papers %}
   <div class="item">
-    <div class="publication-title"><a href="{{ publication.referrence }}">{{ publication.title }}</a></div>
+    <div class="publication-title"><a target="_blank" href="{{ publication.referrence }}">{{ publication.title }}</a></div>
     <div class="publication-authors">{{ publication.description }}</div>
     <!--//item-->
   {% endfor %}
