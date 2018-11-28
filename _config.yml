@@ -3,6 +3,7 @@
 # Site Settings
 title: About MyBetterWeb
 url: 'http://about.mybetterweb.site'
+description: MyBetterWeb is a company that focused on building mobile optimized website with higher conversion rate. With the experiences we gained over the years we are confident your website will work all the way up to the top.
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic

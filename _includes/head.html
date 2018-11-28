@@ -9,11 +9,10 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="title" content="{{ site.title }}">
-  <meta name="description" content="MyBetterWeb is a company that focused on building mobile optimized website with higher conversion rate. With the experiences we gained over the years we are confident your website will work all the way up to the top.">
+  <meta name="description" content="{{ site. description }}">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="assets/images/favicon.ico">
-
+  {% include apple-icon.html %}
   <!-- Global CSS -->
   <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
 
@@ -35,12 +34,5 @@
     <!-- ShareThis -->
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5bfab345a0286b00115a8e3a&product=gdpr-compliance-tool"></script>
 
-    <!-- Facebook og markup -->
-    <meta property="og:type" content="business.business">
-    <meta property="og:title" content="{{ site.title }}">
-    <meta property="og:url" content="{{ site.url }}">
-    <meta property="og:site_name" content="MyBetterWeb">
-    <meta property="og:description" content="{{ site.description }}">
-    <meta property="og:image" content="assets/images/og-logo.jpg">
-
+    {% seo %}
 </head>
