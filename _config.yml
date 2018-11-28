@@ -26,6 +26,13 @@ social:
 twitter:
   username: peranakanfrancis
   card: summary
+
+# jekyll gems
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 profile: true
 incremental: true
 livereload: true
