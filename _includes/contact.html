@@ -61,8 +61,20 @@
     </li>
     {% endif %}
 
+    {% if sidebar.facebook %}
+    <li class="facebook"><i class="fa fa-facebook fa-lg"></i>
+      <a href="https://facebook.com/{{ sidebar.facebook }}" target="_blank">{{ sidebar.facebook }}</a>
+    </li>
+    {% endif %}
+
+    {% if sidebar.instagram %}
+    <li class="instagram"><i class="fa fa-instagram fa-lg"></i>
+      <a href="https://instagram.com/{{ sidebar.instagram }}" target="_blank">{{ sidebar.instagram }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.website %}
-    <li class="website"><i class="fas fa-globe-americas"></i>
+    <li class="website"><i class="fa fa-globe fa-lg"></i>
       <a href="https://{{ sidebar.website }}" target="_blank">{{ sidebar.website }}</a>
     </li>
     {% endif %}
