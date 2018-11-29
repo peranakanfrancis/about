@@ -51,7 +51,7 @@ sidebar:
         link: "https://mybetterweb.site/#/2018/07/01/business-website"
 
       - item: Google AMP Website
-        link: "https://mybetterweb.site/#/2018/05/10/google-amp-website"
+        link: "https://mybetterweb.site/#/2018/09/20/google-amp-website"
 
       - item: eCommerce Online Shop
         link: "https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop"
@@ -59,20 +59,24 @@ sidebar:
       - item: Search Engine Optimization
         link: "https://mybetterweb.site/#/2018/10/01/search-engine-optimization"
 
-      - item: Conversation Rate Optimization
-        link: "https://mybetterweb.site/#/2018/06/01/conversion-rate-optimization"
-
       - item: Paid Search Marketing
-        link: "https://mybetterweb.site/#/2018/06/01/paid-search-marketing"
+        link: "https://mybetterweb.site/#/2018/10/03/paid-search-marketing"
 
       - item: Email Marketing
-        link: "https://mybetterweb.site/#/2018/05/30/email-marketing"
+        link: "https://mybetterweb.site/#/2018/06/10/email-marketing"
+
+      - item: Conversation Rate Optimization
+        link: "https://mybetterweb.site/#/2018/05/10/conversion-rate-optimization"
 
       - item: Drone Video Editing
         link: "https://mybetterweb.site/#/2018/10/10/drone-video-editing"
 
       - item: Holiday Video Editing
         link: "https://mybetterweb.site/#/2018/10/30/holiday-video-editing"
+
+      - item: "Animated Video Explainer"
+        link: "https://mybetterweb.site/#/2018/10/05/animated-video-editing"
+
 
 career-profile:
     title: About MyBetterWeb
