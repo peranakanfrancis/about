@@ -8,6 +8,7 @@ baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
 chrome_mobile_color: fa2a7b #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
+destination: _site
 
 # Tracker
 analytics: UA-129774437-2
@@ -37,7 +38,6 @@ profile: true
 incremental: true
 livereload: true
 time_zone: Asia/Katmandul
-destination: public
 source:
 markdown: kramdown
 kramdown:
