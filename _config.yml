@@ -35,15 +35,16 @@ plugins:
   - jekyll-sitemap
 
 profile: true
-incremental: true
 livereload: true
-time_zone: Asia/Katmandul
+time_zone: Asia/Kathmandu
 source:
 markdown: kramdown
 kramdown:
   input: GFM
   auto_ids: true
-hightlighter: rouge
+  syntax_highlighter_opts:
+      disable : true
+highlighter: none
 sass:
   sass_dir: _sass
   style: compressed
