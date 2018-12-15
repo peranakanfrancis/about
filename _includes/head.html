@@ -15,7 +15,7 @@
   {% include apple-icon.html %}
   <!-- Global CSS -->
   <link rel="stylesheet" href="assets/plugins/bootstrap/css/bootstrap.min.css">
-
+  <link rel="stylesheet" href="{{ "assets/css/prism.css" | prepend: site.baseurl }}">
   <!-- Plugins CSS -->
   <link rel="stylesheet" href="assets/plugins/font-awesome/css/all.css">
   <link rel="stylesheet" href="https://use.fontawesome.com/7e1bd8a852.css">
@@ -35,5 +35,6 @@
     <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5bfab345a0286b00115a8e3a&product=gdpr-compliance-tool"></script>
 
     {% seo %}
+    {% include og.html %}
     {% include mailchimp_connect.html %}
 </head>
