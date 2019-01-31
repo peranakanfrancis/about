@@ -215,7 +215,11 @@ publications:
       Besides being one of the many code contributor to [brew.sh](https://brew.sh), I also helped contribute some simple codes on my own gist on github.
 
     papers:
-      - title: "Malaysia Website Awards 2017"
+      - title: "Malaysia Website Awards 2018 - Commercial category"
+        description: That's my second time winning the awards after MWA 2016 in E-Commerce category. It's my business website that won the Commercial category this time.  
+        referrence: "https://www.mwa.my/2018/nov/mybetterweb"
+
+      - title: "Malaysia Website Awards 2016 - E-Commerce category"
         description: It was my glorious moment to get the awards for the Website that I made. Besides for the website design and seo strategy, the chatbot that I created to automate online order is the main reason I was chosen.
         referrence: http://mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste
 
