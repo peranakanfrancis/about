@@ -37,12 +37,6 @@ sidebar:
       - idiom: Chinese
         level: Conversation
 
-      - idiom: Indonesian
-        level: Conversation
-
-      - idiom: Nepali
-        level: Beginner
-
     interests:
       - item: A.I Chatbot for Hotel
         link: "https://mybetterweb.site/#/2018/12/30/chatbot-automation"
@@ -216,7 +210,7 @@ publications:
 
     papers:
       - title: "Malaysia Website Awards 2018 - Commercial category"
-        description: That's my second time winning the awards after MWA 2016 in E-Commerce category. It's my business website that won the Commercial category this time.  
+        description: That's my second time winning the awards after MWA 2016 in E-Commerce category. It's my business website that won the Commercial category this time.
         referrence: "https://www.mwa.my/2018/nov/mybetterweb"
 
       - title: "Malaysia Website Awards 2016 - E-Commerce category"
@@ -234,6 +228,10 @@ publications:
       - title: "Jekyll vimeo plugin"
         description: A minimal Ruby code for embedding videos from Vimeo using a simple Liquid tag without installing jekyll plugin.
         referrence: https://gist.github.com/peranakanfrancis/e51ae72c2c697c0c4971f2b837935f03
+
+      - title: "Advanced Chatfuel Customer Chat Plugin"
+        description: We all know that chatbot is the new trend in online business. Chatfuel is a great platform builded by Hubspot.com but somehow they don't allow custom message on the Messenger Chat Plugin. So I make this plugin for chatfuel users easily integrate their Messenger codes and the plugin I made to get a custom welcome message.
+        reference: https://peranakanfrancis.github.io/chatfuel-chat-plugin/
 
 skills:
     title: Skills &amp; Proficiency
