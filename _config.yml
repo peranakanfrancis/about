@@ -6,7 +6,7 @@ url: 'https://peranakanfrancis.github.io/online-cv/'
 description: MyBetterWeb is a managed by a solo frontend developer that is focused on building mobile optimized website with higher conversion rate. We are confident your website will work all the way up to the top.
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: berry # blue turquoise green berry orange ceramic
+theme_skin: turquoise # blue turquoise green berry orange ceramic
 chrome_mobile_color: fa2a7b #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 destination: _site
 
@@ -17,7 +17,7 @@ social:
   name: peranakafrancis
   links:
     - https://twitter.com/peranakafrancis
-    - https://www.facebook.com/mybetterweb.site/
+    - https://www.facebook.com/peranakanfrancis/
     - https://www.linkedin.com/in/peranakafrancis
     - https://instagram.com/mybetterweb.site/
     - https://github.com/peranakafrancis
