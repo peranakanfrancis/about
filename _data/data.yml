@@ -13,12 +13,12 @@ sidebar:
 
     # Sidebar links
     email: admin@mybetterweb.site
-    phone: 60142137507
-    whatsapp: 9779823034701
-    website: mybetterweb.site #do not add http://
+    phone: 601165137507
+    whatsapp: 601165137507
+    website: peranakanfrancis.github.io/mybetterwebsite/ #do not add http://
     linkedin: peranakafrancis
     github: peranakafrancis
-    facebook: mybetterweb.site
+    facebook: peranakanfrancis
     instagram: mybetterweb.site
     gitlab:
     bitbucket:
@@ -53,27 +53,6 @@ sidebar:
       - item: eCommerce Online Shop
         link: "https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop"
 
-      - item: Search Engine Optimization
-        link: "https://mybetterweb.site/#/2018/10/01/search-engine-optimization"
-
-      - item: Paid Search Marketing
-        link: "https://mybetterweb.site/#/2018/10/03/paid-search-marketing"
-
-      - item: Email Marketing
-        link: "https://mybetterweb.site/#/2018/06/10/email-marketing"
-
-      - item: Conversation Rate Optimization
-        link: "https://mybetterweb.site/#/2018/05/10/conversion-rate-optimization"
-
-      - item: Drone Video Editing
-        link: "https://mybetterweb.site/#/2018/10/10/drone-video-editing"
-
-      - item: Holiday Video Editing
-        link: "https://mybetterweb.site/#/2018/10/30/holiday-video-editing"
-
-      - item: Time Lapse Video Editing
-        link: "https://mybetterweb.site/#/2018/11/30/time-lapse-video-editing"
-
       - item: Animated Video Explainer
         link: "https://mybetterweb.site/#/2018/10/05/animated-video-editing"
 
@@ -89,18 +68,18 @@ career-profile:
 
       MyBetterWeb aims on delivering solutions and services regarding your requirements keeping in mind our high quality standards and enhancing customer satisfaction in the process. Our mission is to break barriers between day and night through innovative skills, energy and technology, the aim of our business is to always provide a quality service given the limited resources and time.
 
-education:
-    - degree: Associate of Arts and Sciences - AAS
-      university: Columbia International College
-      time: 2007 - 2008
-      details: |
-        I obtained a Diploma of Internet Marketing from Columbia International College of UK through part time studying.
+# education:
+#    - degree: Associate of Arts and Sciences - AAS
+#      university: Columbia International College
+#      time: 2007 - 2008
+#      details: |
+#        I obtained a Diploma of Internet Marketing from Columbia International College of UK through part time studying.
 
-    - degree: Bachelor of Technology - BTech
-      university: The Hong Kong University of Science and Technology
-      time: 2008 - 2010
-      details: |
-        I was part time study on practical based ecommerce course.
+#    - degree: Bachelor of Technology - BTech
+#      university: The Hong Kong University of Science and Technology
+#      time: 2008 - 2010
+#      details: |
+#        I was part time study on practical based ecommerce course.
 
 experiences:
     - role: Frontend Developer & Digital Marketing Strategist
