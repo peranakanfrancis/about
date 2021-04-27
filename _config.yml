@@ -2,8 +2,8 @@
 
 # Site Settings
 title: About MyBetterWeb
-url: 'https://about.mybetterweb.site'
-description: MyBetterWeb is a company that focused on building mobile optimized website with higher conversion rate. With the experiences we gained over the years we are confident your website will work all the way up to the top.
+url: 'https://peranakanfrancis.github.io/online-cv/'
+description: MyBetterWeb is a managed by a solo frontend developer that is focused on building mobile optimized website with higher conversion rate. We are confident your website will work all the way up to the top.
 baseurl: '' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: berry # blue turquoise green berry orange ceramic
@@ -22,7 +22,7 @@ social:
     - https://instagram.com/mybetterweb.site/
     - https://github.com/peranakafrancis
     - https://keybase.io/peranakafrancis
-    - https://wa.me/9779823034701
+    - https://wa.link/pf0lud    
     - https://m.me/mybetterweb.site
 twitter:
   username: peranakanfrancis
