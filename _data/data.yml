@@ -4,235 +4,170 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Francis Tan
-    tagline: "Digital Marketing Strategist @MyBetterWeb"
-    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Francis Tan Chin Hooi
+    tagline: "35 years old, currently working as freelancer."
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: admin@mybetterweb.site
-    phone: 601165137507
-    whatsapp: 601165137507
-    website: peranakanfrancis.github.io/mybetterwebsite/ #do not add http://
-    linkedin: peranakafrancis
+    email: francis.tch@gmail.com
+    phone: +601165137507
+    whatsapp: +601165137507
+#    website: peranakanfrancis.github.io/mybetterwebsite/ #do not add http://
+#    linkedin: peranakafrancis
     github: peranakafrancis
     facebook: peranakanfrancis
-    instagram: mybetterweb.site
+#    instagram: mybetterweb.site
     gitlab:
     bitbucket:
-    twitter: '@peranakafrancis'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: '@Francis36615257'
+    stack-overflow: '9007071/francis-tan' # Number/Username, e.g. 123456/alandoe
     codewars:
-    location: Malaysia & Nepal
+    location: Bukit Mertajam, Penang, Malaysia
 
     languages:
-      - idiom: English
-        level: Professional
-
-      - idiom: Malay
-        level: Professional
-
-      - idiom: Chinese
+      - idiom: Bahasa Malaysia
         level: Conversation
 
+      - idiom: English
+        level: Conversation
+
+      - idiom: Chinese
+        level: Professional
+
     interests:
-      - item: A.I Chatbot for Hotel
-        link: "https://mybetterweb.site/#/2018/12/30/chatbot-automation"
+      - item: Hiking & Trekking
+#        link: "https://mybetterweb.site/#/2018/12/30/chatbot-automation"
 
-      - item: Responsive Website
-        link: "https://mybetterweb.site/#/2018/08/13/responsive-website"
+      - item: Plantation
+#        link: "https://mybetterweb.site/#/2018/08/13/responsive-website"
 
-      - item: Business Website
-        link: "https://mybetterweb.site/#/2018/07/01/business-website"
-
-      - item: Google AMP Website
-        link: "https://mybetterweb.site/#/2018/09/20/google-amp-website"
-
-      - item: eCommerce Online Shop
-        link: "https://mybetterweb.site/#/2018/09/10/ecommerce-online-shop"
-
-      - item: Animated Video Explainer
-        link: "https://mybetterweb.site/#/2018/10/05/animated-video-editing"
-
+      - item: Web Techology
+#        link: "https://mybetterweb.site/#/2018/07/01/business-website"
 
 career-profile:
-    title: About MyBetterWeb
+    title: My Bio
     summary: |
-      Francis Tan, the founder of the MyBetterWeb has more than 10 years of experience helping brands stand out in the crowded digital space. In fact, he made his first online business success at the age of 10 by selling dropshipping items on eBay. Since then he has developed an interest in digital marketing and computer programming.
+      My name is Francis, born in Sabah and raised in Bukit Mertajam. Since very young age of 9 I have been sent out to boarding schools in Melaka & Ipoh. I completed form 5 studies at Bukit Mertajam, without the chance of further my study in college I took up a job offer abroad in Macau for 1.5 years. To be honest, I was a lost sheep
+      due to giving in to drug addiction at the age of 22, it took me almost 12 years to get out from the circle. God made miracles. Thus, my life was blank for many years. Up until 3 years ago (April 2019) after I was miraculously saved by a dream, I woke up and gave up the toxicful lifestyle and started a slightly different one but
+      I was only able back to work last year in a jewellery shop. The reason being was because I got into another deep situation - I got suffered in a very difficult time of my life which I got oppressed by the unclean spirits so I could't really work as a normal person for quite some time. My health dropped and mentally afflicted immersely that
+      I could only work at home. After a year of recovery both in pysically, mentally and spiritually (thanks to many sisters and my parish priest Fr Louis who help me a lot) too. Since sister recomended to go for it and I'm also interested to learn to serve the Lord, so I decided to give this position a try. I have a passion of sharing the
+      Gospel but I need guidance. I can work under supervision and stress. I have a lot of uneasy and ugly past that made me very hard to open up to people but since it is an offer from the church, so I wanted to be honest and hopefully you can see the good in me. Thanks.
 
-      With the strong teamwork of digital professional includes digital strategists, frontend, backend and full stack developers. All of our projects are undertaken from our experts, utilizing our wide array of talent to create unique campaigns.
+ education:
+    - degree: SPM
+      university: SMK Simpang Ampat
+      time: 2003 - 2004
+      details: |
+        I'm an art stream student (Accounting Class). I obstained A2 for English and B for BM. Overall I didn't failed a subjects and got offer to form 6 but I didn't complete the studies and went to airlines training school for the role of flight attendant training course.
 
-      The team members at MyBetterWeb are dedicated, creative, and interesting people you will ever meet, exactly the people you would love to work with. We are motivated about the work we do for our client’s with its challenges and requirements to serve with the help of our expert and skilled professional team member’s.
+    - degree: PMR
+      university: SMK Alma
+      time: 2001 - 2002
+      details: |
+        Due to family disagrement, I changed to this goverment school. I had a hard time switiching from chinese to BM. My academic was just average, only bestes in Chinese subject.
 
-      MyBetterWeb aims on delivering solutions and services regarding your requirements keeping in mind our high quality standards and enhancing customer satisfaction in the process. Our mission is to break barriers between day and night through innovative skills, energy and technology, the aim of our business is to always provide a quality service given the limited resources and time.
-
-# education:
-#    - degree: Associate of Arts and Sciences - AAS
-#      university: Columbia International College
-#      time: 2007 - 2008
-#      details: |
-#        I obtained a Diploma of Internet Marketing from Columbia International College of UK through part time studying.
-
-#    - degree: Bachelor of Technology - BTech
-#      university: The Hong Kong University of Science and Technology
-#      time: 2008 - 2010
-#      details: |
-#        I was part time study on practical based ecommerce course.
+    - degree:
+      university: Yok Choy High School Ipoh (SUWA / Independent School)
+      time: 2000 - 2001
+      details: |
+        I got enrolled into the first class for my first year of high school here. My exam is always in the Top 10 in our academic year. I was with the Chinese Orchestra, playing double bass.
 
 experiences:
-    - role: Frontend Developer & Digital Marketing Strategist
-      time: 2018 - Present
-      company: MyBetterWeb, Kathmandu
+    - role: Digital Marketing Coordinator
+      time: October 2021 - March, 2022
+      company: U Silver (M) Sdn Bhd, Bayan Baru
       details: |
-        As a Digital Marketing Strategists, my main task is to take the lead in helping our clients figure out how to best use the internet to achieve their international growth objectives. I  work closely with the marketing and brand strategists to develop an international web presence architecture and online marketing strategy. This provides a clear roadmap that orchestrates all relevant digital channels and tactics (i.e. websites, content marketing, networking on social media, e-commerce, search and social advertising, SEO, marketing automation, apps, media/blogger outreach, etc.) into one actionable plan.  In practice, these are the tasks I need to do:
+       - Mainly managing customer enquiries and orders for online orders on Shopee, Lazada, Facebook and Website.
+       - Preparing contents be it in articles or arts form for advertisement on social media.
+       - Working with Sales team to revamp and publish company website.
 
-        - Perform detailed desktop research into our clients, their category, and competitors across multiple markets.
-        - De-construct competitive best practices in digital marketing and create benchmarks.
-        - Define global web architecture detailing what sites and social assets the brand will maintain globally in various versions and languages.
-        - Conduct web asset audits to map a brand’s global web presence and assess the effectiveness of each asset.
-        - Work closely with the various specialists involved with the implementation and management of our digital strategies.
-        - Identify opportunities for clients to use digital technology to enhance their overall marketing mix: product, price, place, or promotion.
-        - Support the lead marketing strategist with research, analysis, and reporting in related areas, such as market research, target segmentation, and brands strategy.
-        - Structure and present recommendations to clients.
-        - Participate in new business activity often by providing digital intel on companies and markets.
-        - Help with the ongoing digitization of agency IP and processes.
-
-    - role: Director of Business Development
-      time: 2015 - 2018
-      company: Global Foodie Network, Penang
+experiences:
+    - role: Webmaster
+      time: 2016 - 2018
+      company: Freelance at Nepal
       details: |
-        This position is expect ed to uphold the mission and values established by the organization. Below are the job scopes:
+        I spent about 15 months backpacking here in a foreign country. I got a few jobs offer in local hotel, resort, travel agencies and internet company. My main job here to help them set up website and online ordering system for their products/services.
+        I met many young local digital markting enthusiast, travel startup, and foreigner who also making a living in this country. My time schedule is quite tight everyday so beside working in front of my laptop and meeting with clients, I spent most my
+        free times visiting to the forest and remote village areas.
 
-          - Implement the recommendations of the strategic marketing plan.
-          - Perform market research and analysis.
-          - Evaluate operational issues to determine whether competitive and staying current with the latest trends in the industry.
-          - Monitor external and internal environment for development of new market segments.
-          - Develop marketing campaigns for new products and services. This includes formulating a specific budget and expenditure plan for each.
-          - Manage specific corporate programs.
-          - Demonstrate knowledge of, and supports, mission, vision, value statements, standards, policies and procedures, operating instructions, confidentiality standards, and the code of ethical behavior.
-          - Perform public speaking to volunteer organizations and committees regarding public relations, marketing and development.
-          - Develop and maintain marketing budget.
-
-    - role: Relationship Management Specialist
-      time: 2014 - 2015
-      company: Socialwalk, Multimedia University Cyberjaya
+    - role: Marketing Coordinator
+      time: 2015 - 2016
+      company: VJ Foodstuff Import & Export, Paya Terubong
       details: |
-        As a Relationship Management Specialist, I'm in charged with developing techniques and processes to continuously verify the integrity of the information contained within the database.  The maintenance includes the addition of new information, updating changes to existing information and deletion of obsolete data.
+        This is my step mother company, I got offered a job here but only last for a short while cos I had a very unstable and unhealty lifestyle back then. During my work, I helped to set up company website for rebranding and also to promote food products
+        to overseas To the surprise one of our item won World Top 10 Instant Noodle and I was part of this project.
 
-          - Coordinating the data verifications efforts of the organization – both on the organizational and individual level.
-          - Completing reports, lists, labels and custom data collections to support the work of the organization.
-          - Preparing reports for use by Chamber staff.
-
-    - role: Business Development Consultant
-      time: 2012 - 2014
-      company: Eco OEM , Kuala Lumpur
+    - role: Startup at Eco OEM
+      time: 2008 - 2010
+      company: Everlinked Trading Sdn Bhd , Kuala Lumpur
       details: |
-        Provide consultation and one stop solution on development of green and eco friendly products. Mainly on Health and Beauty Projects.
+        This is my first company that my friends invested in with the ideas of providing contract manufacturing for buyer who seek for factory to produce their own brand of health products. I gained my experiences to work closely with Malaysia External Trade Development Corporation (MATRADE) to provide me opportunities to
+        met with overseas buyers and closed many big amount of sales. I also have the chance to work with various manaufacturing factories for my clients to build their health products. My works mainly involving in liasing and negotiating, analysing with market segments with the expert and document works related to internation trades.
+        I got a lot of exposures but sadly soon after that I got myself into drug issue and my life went into a total disaster from then.
 
-        - Responsible for the overall management of all strategic and operational Marketing and Customer Relationship activities.
-        - Provide market feedback to the company leadership regarding competitive offerings, prospect needs and generate product development ideas.
-        - Planning and coordinating the implementation of business plans and the penetration of new markets.
-        - Take ownership of the management of the sales and marketing functions of the business.
-        - Drive increased revenue and profit to achieve the Company`s ambitious growth.
-        - Working to stringent targets, the job holder will be required to adopt a professional and knowledgeable approach to each new business call.
-
-    - role: Business Development Executive
-      time: 2011 - 2012
-      company: Khimyan Holdings, Penang
+    - role: Guest Service Conceirge
+      time: 2006 - 2008
+      company: Sands Macau
       details: |
-        Responsible for product development and business consultation to clients.
-
-          - Brand development, web site traffic growth, web site UI and advertising revenue. Developed brand strategy and statistics systems.
-          - Strategic Consulting, including business plan & sales strategy development.
-          - Advising new businesses on formation of corporations and business structures, drafting privacy policies and structuring commercial transactions.
+        I was hired through a human resource company in Singapore to work in a casino in Macau as a guest service concerige. My job was easy that included escorting guest to the room, room tours, booking tickets for airlines, receiving guest from airport, and all sort of bellboy works. I returned to Malaysia after I my grandfather passed away
+        and my family was having a enormous changes due to tragedy.
 
 projects:
     title: Projects
     intro: >
-      I love creating website that works. I'm passionate in digital marketing and within the 3 months of my time in Nepal, I've accomplished quite a few of works from big to small organizations in different fields.
+      I don't have much skills but creating website is my only hobby. These are some of the websites I created and some of them are still live on the internet but some are just for display.
 
     assignments:
-      - title: MyBetterWeb
-        link: "https://mybetterweb.site"
-        tagline: "This is a minimalist website for my own company that is created with Ruby templating language + Javascript for animation."
-
-      - title: Usoft Store
-        link: "https://usoft.store"
-        tagline: "This online shop is made with Shopify. I've experience in Ruby so designing made so fun for this task. This website is going to be the second largest online shop in Nepal after Daraz."
-
-      - title: Trekking Top Nepal
-        link: "https://trekkingtopnepal.com"
-        tagline: "This is my first PHP job after so many years. My job is to transform a travel agency's website into a more attractive one with online booking function. I also provide Paid Ads Marketing for them."
+      - title: Church of The Holy Name of Mary Permatang Tinggi
+        link: "https://holynameofmarypt.com/"
+        tagline: "A church website. This is my first assignment in church offered by my parish priest Fr Louis."
 
       - title: ShiShu Tours
         link: "https://shishutours.fun"
-        tagline: "This is a young travel agency company that hasn't put up any website. I created them a fresh & clean responsive website with online booking capibility. Yes, this is my second attempt on PHP!"
-
-      - title: Thapa Coffee
-        link: "https://thapa.coffee"
-        tagline: "I met the coffee farmer during my hike to a local village. The plan didn't goes well and we almost fall down from the landslide. I created the website in the village, the contents are real story and pictures he told me along the trip. This website is written in Go."
+        tagline: "A travel ageny in Nepal, mainly providing outbound tours. I used Wordpress for this company."
 
       - title: Ultranet Communication
-        link: "https://ultranet.netlify.com"
+        link: "https://ultranet.surge.sh"
         tagline: "I was searching for internet wifi and that's when I met them. I created a simple one page website (written in Go) to them and also implemented online banking and ewallet payment gateway to their backend (Wordpress & WooCommerce). "
 
       - title: Khimyan Curry
-        link: "https://khimyan.com"
-        tagline: "Khimyan curry is a renowed curry paste maker in Malaysia. They has a very long history and they also have the best curry in town. I revamped the website in 2016 and this website also got nominated and won the Malaysia Website Awards in 2017."
+        link: "https://khimyancurry.com/"
+        tagline: "The first version of the website was back in 2016, I nominated it to Malaysia Website Awards and I topped other competitors and won the Award."
 
 publications:
-    title: Contribution & Awards
+    title: Awards
     intro: |
-      Besides being one of the many code contributor to [brew.sh](https://brew.sh), I also helped contribute some simple codes on my own gist on github.
+      I failed in most of my life back in youth and the only pround thing is this.
 
     papers:
-      - title: "Malaysia Website Awards 2018 - Commercial category"
-        description: That's my second time winning the awards after MWA 2016 in E-Commerce category. It's my business website that won the Commercial category this time.
-        referrence: "https://www.mwa.my/2018/nov/mybetterweb"
-
       - title: "Malaysia Website Awards 2016 - E-Commerce category"
         description: It was my glorious moment to get the awards for the Website that I made. Besides for the website design and seo strategy, the chatbot that I created to automate online order is the main reason I was chosen.
         referrence: http://mwa.my/2017/may/khimyan-curry-a-malaysian-born-curry-paste
 
-      - title: "Video editing makes easy with ffmpeg command line"
-        description: After getting tired of technical limitation when editing video, I did some research and summarized the ffmpeg command line into a gist. No more headache when editing videos.
-        referrence: https://gist.github.com/peranakanfrancis/2ea53140b7577a04ce412bc1a64e7fbb
-
-      - title: "Disabled copy function on website"
-        description: Tiny Javascript code for disable right-click of mouse, F12 key, and save key combinations on page without jeopardy the design of your website.
-        referrence: https://gist.github.com/peranakanfrancis/07a9e1c574b20c50032ea74e497c406d
-
-      - title: "Jekyll vimeo plugin"
-        description: A minimal Ruby code for embedding videos from Vimeo using a simple Liquid tag without installing jekyll plugin.
-        referrence: https://gist.github.com/peranakanfrancis/e51ae72c2c697c0c4971f2b837935f03
-
-      - title: "Advanced Chatfuel Customer Chat Plugin"
-        description: We all know that chatbot is the new trend in online business. Chatfuel is a great platform builded by Hubspot.com but somehow they don't allow custom message on the Messenger Chat Plugin. So I make this plugin for chatfuel users easily integrate their Messenger codes and the plugin I made to get a custom welcome message.
-        reference: https://peranakanfrancis.github.io/chatfuel-chat-plugin/
-
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills, Traits &amp; Proficiency
 
     toolset:
-      - name: HTML & CSS
-        level: 90%
+      - name: Website Creation (Gohugo, Jekyll, Wordpress, Jimdo)
+        level: 60%
 
-      - name: Javascript & jQuery
-        level: 80%
+      - name: Canva.com
+        level: 60%
 
-      - name: Ruby & Liquid
-        level: 85%
+      - name: Public Speaking
+        level: 40%
 
-      - name: PHP & Wordpress
-        level: 75%
+      - name: Public Relationship
+        level: 40%
 
-      - name: React Native
-        level: 80%
+      - name: Programming
+        level: 20%
 
-      - name: Photoshop & Video Editing
-        level: 65%
+      - name: Tolerance & Passion
+        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://mybetterweb.site" target="_blank" rel="nofollow">MyBetterWeb</a>
+    Last updated on May 2022. All right reserved. This is a private resume. Please respect my privacy. God bless.
